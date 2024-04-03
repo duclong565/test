@@ -106,7 +106,7 @@ class LOPHOC: public SV_viet_bao, public SV_viet_detai {
             return res;
         }
 };
-
+//Sao ngay xua minh cham vay
 int main() {
     LOPHOC *list = NULL, *last = NULL, *node = NULL;
     int tiep = 1;
